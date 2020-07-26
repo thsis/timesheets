@@ -1,0 +1,8 @@
+# Here you can add common activities that are used for randomly filling fields
+# until your quota is reached. Note that if you do not use this function you
+# can safely ignore this file.
+# CAUTION: the program randomly selects entries out of this list so you should
+# only provide activities that are plausible :)
+## Example:
+## Fragerunde Statistik
+## MMSTAT-Wiki

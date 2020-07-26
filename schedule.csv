@@ -1,0 +1,16 @@
+# You can fill in your regular (that means weekly) activities here. These will
+# get inserted into your timesheet automatically if
+#
+# Note that the header follows a fixed format:
+#
+# day_of_week:
+# activity_start:
+# activity_end:
+# note:
+# valid_from:
+# valid_until:
+#
+day_of_week, activity_start, activity_end, note,                  valid_from, valid_until
+# example:
+# SUN,               10:00:00,     14:00:00, Vorbereitung Tutorium, 2018-09-01, 2020-02-20
+# FRI,               10:00:00,     14:00:00, Tutorium,              2019-09-01, 2020-02-27
