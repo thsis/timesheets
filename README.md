@@ -34,6 +34,14 @@ If your current spreadsheet already contains values, don't worry. You can simply
  ```
  and follow the instructions.
  
+ ## Customize your regular hours and activities
+ 
+ Now you should enter your regular hours in the file `schedule.csv` in comma separated format.
+ And you may register your activities in the `activities.txt` file. 
+ Be careful with that one though. It is only used when you want to randomly complete your schedule.
+ Basically this one is a list, where the program picks randomly from.
+ So you should only enter values that may fit anytime - like an ongoing assignment.
+ 
  ## Fill your timesheet
  
  From now on you can create a ready-to-be-uploaded PDF file documenting your possibly imaginary work hours with one command. Let's say my worksheet spreadsheet is called `Gleitzeiterfassung_SHK_2020.xlsx` and I wanted to fill the August of the year 2020:
